@@ -1,3 +1,6 @@
+# personal note from @oscoder87: # 
+Makign changes to be python 2.7 and 3 compatible.
+
 # Oolite Mesh Converters #
 
 A set of Python scripts to convert models to and from Oolite’s DAT format.
